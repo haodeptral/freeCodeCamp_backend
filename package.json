@@ -7,6 +7,7 @@
 	"description": "Hao rat la dep trai",
 	"keywords": [ "c0mplex", "haodeptrai", "freecodecamp" ],
 	"main": "server.js",
+	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
