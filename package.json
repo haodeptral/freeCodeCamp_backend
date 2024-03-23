@@ -8,6 +8,7 @@
 	"keywords": [ "c0mplex", "haodeptrai", "freecodecamp" ],
 	"main": "server.js",
 	"license": "MIT",
+	"version": "1.0.0",
 	"scripts": {
 		"start": "node server.js"
 	},
