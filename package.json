@@ -5,6 +5,7 @@
 		"express": "^4.14.0"
 	},
 	"description": "Hao rat la dep trai",
+	"keywords": [ "c0mplex", "haodeptrai", "NodeJS" ],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
