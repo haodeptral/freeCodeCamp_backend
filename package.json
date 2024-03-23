@@ -2,16 +2,22 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Haodeptrai",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example":"1.1.0"
 	},
 	"description": "Hao rat la dep trai",
-	"keywords": [ "c0mplex", "haodeptrai", "freecodecamp" ],
+	"keywords": [
+		"c0mplex",
+		"haodeptrai",
+		"freecodecamp"
+	],
 	"main": "server.js",
 	"license": "MIT",
 	"version": "1.0.0",
 	"scripts": {
 		"start": "node server.js"
 	},
+	
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/haodeptral/freeCodeCamp_backend.git"
